@@ -31,6 +31,7 @@ and not crash. There were many possible invalid settings and i had to do multipl
 * **Project management**: 
     - Coordinated and managed tasks related to the User Guide
 
+  
 * **Enhancements to existing features**: UI enhancement
     - What it does: It made the UI more visually pleasant by changing the colour schemes,font and layout.
     [\#165](https://github.com/AY2021S1-CS2103T-T11-2/tp/pull/165)
