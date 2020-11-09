@@ -14,7 +14,7 @@ Given below are my contributions to the project.
     - Justification: This will allow the user to keep track of block and room information. 
     It allows the filter function to filter residents by block and room when required.
     - Highlights: There are many constraints for this field such as restricting range of values allowed and handling the 
-    various invalid user inputs. Hence,i had to implement rigorous validation checks to ensure that the app works correctly.
+    various invalid user inputs. Hence, i had to implement rigorous validation checks to ensure that the app works correctly.
     Block and room are also consolidated together as 1 field in the add/edit command so there were additional steps that had to be
     taken in order to ensure that it integrates seamlessly with Hall-y.
     - Credits: The code uses a similar structure as existing fields such as email which was provided in the original AB3
