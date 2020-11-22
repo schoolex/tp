@@ -51,6 +51,8 @@ public class ExportCommand extends Command {
         return new CommandResult(message);
     }
 
+    //@@author yanchenglee98-reused
+    //Solution below reused from https://github.com/yanchenglee98/ip/blob/master/src/main/java/duke/Storage.java
     /**
      * Writes the email of all residents into a txt file
      * @param personList list of residents the command should operate on.
@@ -71,6 +73,8 @@ public class ExportCommand extends Command {
         }
     }
 
+    //@@author yanchenglee98-reused
+    //Solution below reused from https://github.com/yanchenglee98/ip/blob/master/src/main/java/duke/Storage.java
     /**
      * Writes the phone numbers of all residents into a txt file
      * @param personList list of residents the command should operate on.
@@ -91,6 +95,8 @@ public class ExportCommand extends Command {
         }
     }
 
+    //@@author yanchenglee98-reused
+    //Solution below reused from https://github.com/yanchenglee98/ip/blob/master/src/main/java/duke/Storage.java
     /**
      * Creates a directory at ./data/.
      */

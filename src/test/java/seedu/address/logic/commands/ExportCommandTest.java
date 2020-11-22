@@ -49,6 +49,8 @@ public class ExportCommandTest {
                         ExportCommand.MESSAGE_USAGE), () -> exportCommand.execute(model));
     }
 
+    //@@author yanchenglee98-reused
+    //Solution below reused from https://javaconceptoftheday.com/compare-two-text-files-in-java/
     /**
      * Compares the output text at /data/hally.txt with the .txt file at the specified location.
      * @param compare Path of the .txt file to be compared to.
